@@ -5,9 +5,9 @@ Gratis, hanya untuk kamu. Windows 11 RDP (1 JAM) 😘
 
 ## CARANYA:
 
-- 1. Buka: [Katacoda Terminal](https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1)
-- 2. Scroll & klik tombol **"START SCENARIO"**
-- 3. Tunggu sampai proses terminal selesai.
+- Buka: [Katacoda Terminal](https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1)
+- Scroll & klik tombol **"START SCENARIO"**
+- Tunggu sampai proses terminal selesai.
 
 ### Dan paste kan perintah berikut kedalam terminal:
 
