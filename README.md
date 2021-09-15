@@ -19,7 +19,7 @@ Gratis, hanya untuk kamu. Windows 11 RDP (1 JAM) 😘
 
 - Sekarang login (atau buat akun) di https://ngrok.com/
 
-- Dan salin token kamu di sini: https://dashboard.ngrok.com/get-started/your-authtoken
+- Dan salin token kamu dari sini: https://dashboard.ngrok.com/get-started/your-authtoken
 
 - Paste token ngrok kamu di terminal.
 - Kemudian sesaat setelah di build, terminal akan menampilkan kredensial rdp kamu.
