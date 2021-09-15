@@ -27,4 +27,4 @@ curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*publ
 echo User: Administrator
 echo Password: HaiiCantikk0w0
 echo Tunggu 2-4m VM booting terlebih dahulu sebelum menyambungkan RDP. 
-echo Jangan ditutup tab Katacoda nya ya sayang. VM kedaluarsa dalam 1 jam.
+echo Jangan ditutup tab Katacoda nya ya sayang. :) VM kedaluarsa dalam 1 jam.
