@@ -1,7 +1,7 @@
 # Windows11 RDP
 Gratis, hanya untuk kamu ya sayang. Windows 11 RDP (1 JAM) 😘
 
-<img src="https://i.imgur.com/er8jcIF.png" width="500" />
+![68747470733a2f2f692e696d6775722e636f6d2f6572386a6349462e706e67](https://user-images.githubusercontent.com/87219836/133379970-0a396c38-d893-4eac-9f5a-d5b59db5c5e3.png)
 
 ## CARANYA:
 
