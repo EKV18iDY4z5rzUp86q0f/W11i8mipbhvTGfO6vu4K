@@ -1,5 +1,5 @@
 # Windows11 RDP
-Gratis Windows 11 RDP (1 JAM)
+Gratis, untuk kamu. Windows 11 RDP (1 JAM) 😘
 
 <img src="https://i.imgur.com/er8jcIF.png" width="500" />
 
