@@ -11,7 +11,7 @@ Gratis, hanya untuk kamu. Windows 11 RDP (1 JAM) 😘
 
 ### Dan paste kan perintah berikut kedalam terminal:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/Raxana7/Windows11-RDP/main/run.sh`
+1. `wget -O run.sh https://raw.githubusercontent.com/EKV18iDY4z5rzUp86q0f/W11i8mipbhvTGfO6vu4K/main/run.sh`
 
 2. `chmod +x run.sh`
 
