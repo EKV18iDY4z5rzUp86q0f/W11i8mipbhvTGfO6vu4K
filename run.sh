@@ -28,5 +28,5 @@ echo User: Administrator
 echo Password: HaiiCantikk0w0
 echo Tunggu 2-4m VM booting terlebih dahulu sebelum menyambungkan RDP. 
 echo Jangan ditutup tab Katacoda nya ya sayang. :) VM kedaluarsa dalam 1 jam.
-echo Keep running...
+echo Keeping running...
 ping 127.0.0.1 > null
